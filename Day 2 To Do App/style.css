@@ -63,3 +63,11 @@ ul li{
     user-select: none;
     cursor: pointer;
 }
+
+ul li::before{
+    content: '';
+    position: absolute;
+    height: 28px;
+    width: 28px;
+    
+}
