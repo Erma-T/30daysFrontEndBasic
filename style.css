@@ -30,3 +30,8 @@ body{
     padding: 5px 10px;
     list-style: none;
 }
+a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #07235b;
+}
