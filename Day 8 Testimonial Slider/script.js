@@ -38,6 +38,10 @@ function updateTestimonial(){
     usernameEl.innerText = name;
 
     idx++;
+    
+    if(idx === testimonials.length){
+        idx = 0;
+    }
     setTimeout(() => {
         updateTestimonial();
     }, 2000);
