@@ -44,5 +44,5 @@ function updateTestimonial(){
     }
     setTimeout(() => {
         updateTestimonial();
-    }, 2000);
+    }, 3000);
 }

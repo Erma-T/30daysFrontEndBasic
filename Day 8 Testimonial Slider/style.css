@@ -18,7 +18,7 @@ body{
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,.3);
     min-width: 400px;
-    padding: 50px 20px;
+    padding: 70px 20px 50px 20px;
     margin: 5px;
     color: white;
     position: relative;
@@ -30,7 +30,7 @@ img{
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    border: #51f59b solid 2px;
+    border: #a154e4 solid 3px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
