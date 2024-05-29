@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
 body{
     margin: 0;
     display: flex;
@@ -5,25 +11,26 @@ body{
     justify-content: center;
     height: 100vh;
     align-items: center;
-    font-family: cursive;
 }
 .testimonial-container{
-    width: 500px;
-    height: 100px;
+    width: 700px;
     background: linear-gradient(130deg, #7e389c, #2d2ac4, #9b19ae);
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,.3);
     min-width: 400px;
-    padding: 70px 20px;
+    padding: 50px 20px;
     margin: 5px;
     color: white;
     position: relative;
+    font-weight: 300;
+    font-size: 13px;
 }
 
 img{
     width: 100px;
     height: 100px;
     border-radius: 50%;
+    border: #51f59b solid 2px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -31,6 +38,7 @@ img{
 }
 
 .username{
-    font-size: 13px;
-    font-weight: 100;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
 }
