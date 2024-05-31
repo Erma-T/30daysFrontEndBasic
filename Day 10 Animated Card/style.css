@@ -1,15 +1,12 @@
-/* #099268 */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
-
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Inter", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 body {
   height: 100vh;
-  background-color: #ffffff;
+  background: linear-gradient(120deg, #f3daee, #f4ebf4, #e8c9e1);;
 }
 .navbar {
   display: flex;
@@ -24,14 +21,14 @@ body {
 .navbar .logo a {
   font-size: 33px;
   font-weight: 700;
-  color: #099268;
+  color: #0c2074;
 }
 .navbar .logo span {
-  color: black;
+  color: #000000;
 }
 .navbar .btn a {
   padding: 16px 36px;
-  background-color: #099268;
+  background-color: #0c2074;
   color: white;
   border-radius: 25px;
 }
@@ -44,7 +41,7 @@ body {
   height: 90%;
 }
 .card {
-  background-color: #099268;
+  background: linear-gradient(120deg, #3d0f66, #0d1d5f, #3751b5);
   display: flex;
   flex-direction: column;
   width: 400px;
@@ -65,7 +62,7 @@ body {
   text-transform: uppercase;
 }
 .card h1:last-of-type{
-  background-color: #000;
+  background-color: #721b9d;
   color: #ffffff;
   margin: 20px 0;
   text-align: center;
@@ -87,7 +84,7 @@ body {
   text-decoration: none;
   margin-top: 50px;
   padding: 15px 38px;
-  background-color: #000;
+  background-color: #721b9d;
   color: white;
   border-radius: 25px;
 }
@@ -95,10 +92,10 @@ body {
   margin: 0 10px;
 }
 .navbar .btn a:hover{
-  background-color: #000;
+  background-color: #721b9d;
 }
 .card a:hover{
-  background-color: #1f1e1e;
+  background-color: #a11390;
 }
 
 .card::before{
@@ -107,7 +104,7 @@ position: absolute;
 width: 100%;
 height: 100%;
 border-radius: 50px 0px 50px 50px;
-background-color: #099269c0;
+background: #0d1d5fc0;
 z-index: -2;
 transition: 0.5s;
 }
@@ -117,16 +114,16 @@ position: absolute;
 width: 100%;
 height: 100%;
 border-radius: 50px 0px 50px 50px;
-background-color: #09926974;
+background-color: #450d7074;
 z-index: -2;
 transition: 0.5s;
 }
 .card:hover::before{
-  transform: rotate(15deg);
+  transform: rotate(10deg);
   transition: 0.5s;
 }
 .card:hover::after{
-  transform: rotate(-15deg);
+  transform: rotate(-10deg);
   transition: 0.5s;
 }
 .card:hover{
