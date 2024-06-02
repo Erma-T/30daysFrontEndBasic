@@ -20,8 +20,8 @@ body{
     border: 1px solid #717377;
     padding: 20px;
     border-radius: 16px;
-    background: linear-gradient(135deg, #101049, #2b0d4f, #060f43);
-    box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+    background: linear-gradient(135deg, #8282f6, #a356cf, #2938ac);
+    box-shadow: 0px 3px 15px rgba(172, 181, 199, 0.5);
 
 }
 
@@ -30,16 +30,17 @@ input{
     border: none;
     padding: 24px;
     margin: 10px;
-    background: transparent;
+    background: #d5d3e6;
+    border-radius: 15px;
     box-shadow: 0px 3px 15px rgbs(84, 84, 84, 0.1);
     font-size: 40px;
     text-align: right;
     cursor: pointer;
-    color: #ffffff;
+    color: #161460;
 }
 
 input::placeholder{
-    color: #ffffff;
+    color: #161460;
 }
 
 button{
@@ -48,10 +49,10 @@ button{
     height: 60px;
     margin: 10px;
     border-radius: 50%;
-    background: transparent;
-    color: #ffffff;
+    background: #b8bee0;
+    color: #161460;
     font-size: 20px;
-    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
+    box-shadow: -8px -8px 15px rgba(37, 13, 112, 0.1);
     cursor: pointer;
 }
 
@@ -60,5 +61,5 @@ button{
 }
 
 .operator{
-    color: #6dee0a;
+    color: #8e15ba;
 }
