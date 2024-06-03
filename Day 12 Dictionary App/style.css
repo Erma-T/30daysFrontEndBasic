@@ -1,74 +1,84 @@
-body{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    flex-direction: column;
-    height: 90vh;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
-
-.clock{
-    height: 30rem;
-    width: 30rem;
-    background: url("https://media.istockphoto.com/id/1014875730/vector/clock-face-blank-hour-dial-dashes-mark-minutes-and-hours-simple-flat-vector-illustration.jpg?s=612x612&w=0&k=20&c=Z4E98A5tq-ANDKy7LHmp6YIpfRg9xcftPTfZVuMheow=");
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+*:not(i) {
+    font-family: "Poppins", sans-serif;
 }
-
-.clock::before{
-    content: "";
-    height: 10px;
-    width: 10px;
-    background-color: black;
+body {
+    background-color: #1f194c;
+}
+.container {
+    background-color: #ffffff;
+    width: 90vmin;
     position: absolute;
-    z-index: 100;
-    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 80px 50px;
+    border-radius: 10px;
+    box-shadow: 0 20px 40px rgba(38, 33, 61, 0.2);
 }
-
-.hour,.minute,.second{
-    position: absolute;
-    display:flex;
-    justify-content: center;
-}
-
-.hour{
-    height: 11rem;
-    width: 11rem;
+.search-box {
+    width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
-
-.hour::before{
-    content: "";
-    height: 50%;
-    width: 6px;
-    background-color: grey;
-    border-radius: 10px;
+.search-box input {
+    padding: 5px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #ae9cff;
+    font-size: 16px;
 }
-
-.minute{
-    height: 13rem;
-    width: 13rem;
+.search-box button {
+    padding: 15px 0;
+    width: 25%;
+    background-color: #ae9cff;
+    border: none;
+    outline: none;
+    color: #ffffff;
+    border-radius: 5px;
 }
-
-.minute::before{
-    content: "";
-    height: 50%;
-    width: 4px;
-    background-color: grey;
-    border-radius: 10px;
+.result {
+    position: relative;
 }
-
-.second{
-    height: 15rem;
-    width: 15rem;
+.result h3 {
+    font-size: 30px;
+    color: #1f194c;
 }
-
-.second::before{
-    content: "";
-    height: 50%;
-    width: 2px;
-    border-radius: 10px;
-    background-color: red;
+.result .word {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.result button {
+    background-color: transparent;
+    color: #ae9cff;
+    border: none;
+    outline: none;
+    font-size: 18px;
+}
+.result .details {
+    display: flex;
+    gap: 10px;
+    color: #b3b6d4;
+    margin: 5px 0 20px 0;
+    font-size: 14px;
+}
+.word-meaning {
+    color: #575a7b;
+}
+.word-example {
+    color: #575a7b;
+    font-style: italic;
+    border-left: 5px solid #ae9cff;
+    padding-left: 20px;
+    margin-top: 30px;
+}
+.error {
+    margin-top: 80px;
+    text-align: center;
 }
