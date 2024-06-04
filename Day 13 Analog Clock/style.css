@@ -17,13 +17,14 @@ body {
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: var(--primary-color);
+  background: linear-gradient(140deg, #453ca9, #934ab8, #131450);
 }
 body.dark {
   --primary-color: #242526;
   --white-color: #18191a;
   --black-color: #fff;
   --red-color: #e74c3c;
+  --grad-bg: linear-gradient(140deg, #453ca9, #934ab8, #131450);
 }
 .container {
   display: flex;
@@ -33,6 +34,7 @@ body.dark {
 }
 .container .clock {
   display: flex;
+  border: #131450 5px solid;
   height: 400px;
   width: 400px;
   border-radius: 50%;
