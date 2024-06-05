@@ -5,5 +5,6 @@ Difficulty - Easy :star:
 This is a simple input validation built with HTML, CSS, and JavaScript. 
 
 <h3>Features</h3>
- - validate and ehos error as per the given condition
+ - Validate and ehos error as per the given condition
+ - Client side validation
  - Beautiful UI
