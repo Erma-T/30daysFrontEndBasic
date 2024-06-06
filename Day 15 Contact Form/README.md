@@ -2,7 +2,7 @@
 
 Difficulty - Easy :star:
 
-This is a simple contact form built with HTML, CSS, and JavaScript. 
+This is a simple contact form built with HTML, and CSS. 
 
 <h3>Features</h3>
  - Input fields that allows to accept message from clients
