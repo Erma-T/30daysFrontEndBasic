@@ -10,18 +10,21 @@ body{
     width: 100vw;
     display: flex;
     justify-content: center;
+    background: linear-gradient(to right,#dcf5e7,#2bd48b);
     align-items: center;
     font-size: 1.25rem;
-    color:white;
+    font-weight: bolder;
+    color:#ffffff;
 }
 
 .container{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: grey;
+    background: linear-gradient(to right,#2bd48b,#22a159);
     width: 30rem;
     height: 4rem;
+    border: #094624 2px solid;
     border-radius: 10px;
 }
 
