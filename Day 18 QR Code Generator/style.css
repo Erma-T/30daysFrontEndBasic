@@ -18,11 +18,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--bcg-color);
+    background: linear-gradient(130deg, rgb(151, 68, 184), rgb(96, 71, 185), rgb(158, 77, 190));
 }
 
 .box{
-    background-color: var(--primary-color);
+    background:  #0f6812;
     padding: 30px;
     width: 400px;
     border-radius: var(--border-radius);
