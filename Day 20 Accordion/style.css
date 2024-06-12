@@ -1,6 +1,3 @@
-/* ===== Google Font Import - Poppins ===== */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
-
 *{
     margin: 0;
     padding: 0;
@@ -12,7 +9,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #E3F2FD;
+    background: linear-gradient(130deg, rgb(151, 68, 184), rgb(96, 71, 185), rgb(158, 77, 190));
 }
 .accordion{
     max-width: 530px;
@@ -20,7 +17,7 @@ body{
     background: #FFF;
     margin: 0 15px;
     padding: 15px;
-    border-radius: 8px;
+    border-radius: 15px;
     box-shadow:  0 0 4px rgba(0,0,0,0.2);
 }
 .accordion .accordion-content{
