@@ -1,7 +1,7 @@
 /* Main CSS */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #8c53ff;
+    background: linear-gradient(130deg, rgb(151, 68, 184), rgb(96, 71, 185), rgb(158, 77, 190));
     margin: 0;
     display: flex;
     align-items: center;
@@ -10,18 +10,17 @@ body {
 }
 
 #container {
-    background-color: #fff;
+    background-color: #bcc2d6;
     border-radius: 8px;
     box-shadow: 0px 10px 15px 10px rgba(0, 0, 0, 0.3);
     overflow: hidden;
     width: 827px;
-    height: 600px;
+    min-height: 600px;
     padding: 20px;
     box-sizing: border-box;
     text-align: center;
     align-items: center;
     justify-content: center;
-    overflow-y: scroll;
 }
 
 #list-header {
