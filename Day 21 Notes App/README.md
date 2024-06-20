@@ -1,4 +1,4 @@
-<h1> Day 21 - Simpe Notes App</h1>
+<h1> Day 21 - Notes App</h1>
 
 Difficulty - Easy :star:
 
