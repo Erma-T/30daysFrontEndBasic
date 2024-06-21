@@ -1,19 +1,18 @@
-* {
-    box-sizing: border-box;
-  }
-  
-  body {
-    background-color: #f2f2f2;
-    font-family: "Helvetica", sans-serif;
-  }
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  background: linear-gradient(130deg, rgb(151, 68, 184), rgb(96, 71, 185), rgb(158, 77, 190));
+}
   
   .container {
-    background-color: white;
-    max-width: 600px;
-    margin: 100px auto;
-    padding: 20px;
+    background-color: rgb(225, 220, 245);
+    padding: 20px 40px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    border-radius: 10px;
+    border-radius: 25px;
   }
   
   h1 {
@@ -30,7 +29,7 @@
   }
   
   button {
-    background-color: #4caf50;
+    background-color: #2f46de;
     color: white;
     padding: 10px;
     border: none;
