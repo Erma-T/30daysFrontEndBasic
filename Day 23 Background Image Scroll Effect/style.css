@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 400;
   }
   
   .bg-image {
@@ -14,13 +15,14 @@ body {
   
   .container {
     padding: 100px;
+    background: linear-gradient(130deg, rgb(151, 68, 184), rgb(96, 71, 185), rgb(158, 77, 190));
   }
   
   h1 {
     font-size: 50px;
   }
   p {
-    color: grey;
+    color: white;
   }
   
   @media (max-width: 500px) {
