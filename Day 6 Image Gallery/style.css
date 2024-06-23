@@ -5,7 +5,7 @@
     font-family: 'Poppins',sans-serif;
 }
 body {
-    background-color: #c9efff;
+    background: linear-gradient(130deg, rgb(249, 232, 255), rgb(241, 251, 255), rgb(241, 211, 211));
     padding: 0 30px;
 }
 img {
