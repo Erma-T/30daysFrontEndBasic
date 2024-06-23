@@ -14,6 +14,11 @@ img {
     vertical-align: middle;
     display: inline-block;
 }
+img:hover{
+    scale: 1.04;
+    transition: ease-in-out;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.432);
+}
 .header{
     width: 100%;
     display: flex;
