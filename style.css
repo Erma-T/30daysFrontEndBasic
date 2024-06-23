@@ -9,10 +9,10 @@ body{
     background: linear-gradient(135deg, #1b1568, #3c47bc, #2f0c81);
     background-repeat: no-repeat;
     min-height: 100vh;
-    padding: 5% 30%;
+    padding: 5% 3%;
 }
 .container{
-    padding: 10px;
+    padding: 0;
 }
 .card{
     border-radius: 20px;
@@ -20,7 +20,7 @@ body{
     background: #ffffff;
 }
 .tasklist{
-    padding: 2px 15px;
+    padding: 2px 5px;
 }
 
 .tasklist li{
