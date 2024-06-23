@@ -9,10 +9,13 @@ body{
     background: linear-gradient(135deg, #1b1568, #3c47bc, #2f0c81);
     background-repeat: no-repeat;
     min-height: 100vh;
-    padding: 5% 3%;
+    padding-top: 3rem;
+    display: flex;
+    justify-content: center;
 }
 .container{
     padding: 0;
+    max-width: 90%;
 }
 .card{
     border-radius: 20px;
