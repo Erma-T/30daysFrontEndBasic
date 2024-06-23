@@ -2,9 +2,8 @@
 
 Difficulty - Easy :star:
 
-This is a Image Gallery page with switch built with HTML, CSS, and JavaScript. 
+This is a Image Gallery page with switch built with HTML, and CSS. 
 
 <h3>Features</h3>
  - Diaplay images
- - next and previous page controller
  - Colorize image on hover
