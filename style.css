@@ -6,10 +6,11 @@
 }
 
 body{
-    background: linear-gradient(135deg, #1b1568, #3c47bc, #2f0c81);
+    background: linear-gradient(130deg, rgb(151, 68, 184), rgb(96, 71, 185), rgb(158, 77, 190));
     background-repeat: no-repeat;
     min-height: 100vh;
     padding-top: 3rem;
+    padding-bottom: 3rem;
     display: flex;
     justify-content: center;
 }
@@ -20,7 +21,8 @@ body{
 .card{
     border-radius: 20px;
     padding: 20px 30px;
-    background: #ffffff;
+    background: #f8f1ff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.432);
 }
 .tasklist{
     padding: 2px 5px;
