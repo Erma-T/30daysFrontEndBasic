@@ -10,5 +10,4 @@ eye.addEventListener("click", () => {
     : ((input.type = "password"),
     eye.classList.remove("fa-eye-slash"),
     eye.classList.add("fa-eye"));
-  eye.class
 });
