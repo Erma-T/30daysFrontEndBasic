@@ -13,4 +13,6 @@ This is a mini weather app built with HTML, CSS, and JavaScript.
 
  - It must have a beautifyl UI
 
-<img src="images/Show.png" width="150" alt="Weather App Screenshot">
+<img src="images/Show.png" width="1500" alt="Weather App Screenshot">
+
+<a href="https://basicfrontend.netlify.app/day%201%20weather%20app/">Demo</a> | <a>Repo</a>
