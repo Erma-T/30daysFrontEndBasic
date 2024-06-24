@@ -7,8 +7,19 @@ This repo is beneficial to:
   - Brush-up Enthusiasts
   - Interactive Learners
 
-
-https://basicfrontend.netlify.app/
-
+find the complete list of demos for all the projects at: https://basicfrontend.netlify.app/
 
 Feel free to contribute!
+
+# COMPLETE PROJECTS
+
+
+<h1> Day 1 - Weather App</h1>
+
+Difficulty - Easy :star:
+
+This is a mini weather app built with HTML, CSS, and JavaScript. 
+
+<img src="images/Show.png" width="1300" alt="Weather App Screenshot">
+
+<a href="https://basicfrontend.netlify.app/day%201%20weather%20app/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%201%20Weather%20APP">Repo</a>
