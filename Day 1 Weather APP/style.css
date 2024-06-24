@@ -6,7 +6,11 @@
 }
 
 body{
-    background: #2d3933;
+    background: linear-gradient(130deg, rgb(151, 68, 184), rgb(96, 71, 185), rgb(158, 77, 190));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
 }
 
 .card{
@@ -18,6 +22,7 @@ body{
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
+    border: 2px solid #aca1eccb;
 }
 
 .search{
