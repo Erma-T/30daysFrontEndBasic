@@ -20,6 +20,6 @@ Difficulty - Easy :star:
 
 This is a mini weather app built with HTML, CSS, and JavaScript. 
 
-<img src="images/Show.png" width="1300" alt="Weather App Screenshot">
+<img src="images/Show.png" width="1000" alt="Weather App Screenshot">
 
 <a href="https://basicfrontend.netlify.app/day%201%20weather%20app/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%201%20Weather%20APP">Repo</a>
