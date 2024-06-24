@@ -13,4 +13,4 @@ This is a mini weather app built with HTML, CSS, and JavaScript.
 
  - It must have a beautifyl UI
 
-img src="images/Show.png" width="150" alt="Weather App Screenshot">
+<img src="images/Show.png" width="150" alt="Weather App Screenshot">
