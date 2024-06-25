@@ -21,17 +21,17 @@ const questions = [
         question: "What do you call the “brain” of the computer?",
         answers: [
             {text: "Hard drive", correct: false},
-            {text: "Central Processing Unit", correct: true},
             {text: "Database", correct: false},
             {text: "System Software", correct: false},
+            {text: "Central Processing Unit", correct: true},
         ]
     },
     {
         question: "What does RAM stand for?",
         answers: [
             {text: "Review Admittance Monitor", correct: false},
-            {text: "Random Access Memory", correct: false},
-            {text: "Review Admittance Memory", correct: true},
+            {text: "Review Admittance Memory", correct: false},
+            {text: "Random Access Memory", correct: true},
             {text: "Random Access Monitor", correct: false},
         ]
     },
