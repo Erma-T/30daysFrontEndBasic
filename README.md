@@ -23,3 +23,14 @@ This is a mini weather app built with HTML, CSS, and JavaScript.
 <img src="images/Show1.png" width="750" alt="Weather App Screenshot">
 
 <a href="https://basicfrontend.netlify.app/day%201%20weather%20app/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%201%20Weather%20APP">Repo</a>
+
+
+<h1> Day 2 - TO-DO App</h1>
+
+Difficulty - Easy :star:
+
+This is a To do app built with HTML, CSS, and JavaScript. 
+
+<img src="images/Show2.png" width="750" alt="TODO App Screenshot">
+
+<a href="https://basicfrontend.netlify.app/day%202%20todo%20app/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%202%20TODO%20App">Repo</a>
