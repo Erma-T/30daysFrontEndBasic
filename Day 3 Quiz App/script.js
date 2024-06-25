@@ -1,38 +1,47 @@
 const questions = [
     {
-        question: "Which is the largest animal in the world?",
+        question: "Which of the following is hardware?",
         answers: [
-            {text: "Shark", correct: false},
-            {text: "Blue whale", correct: true},
-            {text: "Elephant", correct: false},
-            {text: "Girafee", correct: false},
+            {text: "Monitor", correct: true},
+            {text: "Program", correct: false},
+            {text: "Operating System", correct: false},
+            {text: "Microsoft Office", correct: false},
         ]
     },
     {
-        question: "Which is the smallest country in the world?",
+        question: "Which of the following is software?",
         answers: [
-            {text: "Vatican City", correct: true},
-            {text: "Bhutan", correct: false},
-            {text: "Nepal", correct: false},
-            {text: "Sri Lanka", correct: false},
+            {text: "Keyboard", correct: false},
+            {text: "Microsoft Office", correct: true},
+            {text: "Speaker", correct: false},
+            {text: "Mouse", correct: false},
         ]
     },
     {
-        question: "Which is the largest desert in the world?",
+        question: "What do you call the “brain” of the computer?",
         answers: [
-            {text: "Kalahari", correct: false},
-            {text: "Gobi", correct: false},
-            {text: "Sahara", correct: false},
-            {text: "Antarctica", correct: true},
+            {text: "Hard drive", correct: false},
+            {text: "Central Processing Unit", correct: true},
+            {text: "Database", correct: false},
+            {text: "System Software", correct: false},
         ]
     },
     {
-        question: "Which is the smallest continent in hte world?",
+        question: "What does RAM stand for?",
         answers: [
-            {text: "Asia", correct: false},
-            {text: "Australia", correct: true},
-            {text: "Arctic", correct: false},
-            {text: "Africa", correct: false},
+            {text: "Review Admittance Monitor", correct: false},
+            {text: "Random Access Memory", correct: false},
+            {text: "Review Admittance Memory", correct: true},
+            {text: "Random Access Monitor", correct: false},
+        ]
+    },
+    {
+        question: "What is the function of the hard drive disk?",
+        answers: [
+            {text: "Processing", correct: false},
+            {text: "Storage", correct: true},
+            {text: "Visual display", correct: false},
+            {text: "Type letters", correct: false},
         ]
     }
 ];
