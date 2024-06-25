@@ -5,13 +5,16 @@ Difficulty - Easy :star:
 This is a basic to do app built with HTML, CSS, and JavaScript. 
 
 <h3>Features</h3>
- - Task Management
-    |
-    |- Add task
-    |
-    |- Mark task as done
-    |
-    |- Remove task  
+ - Task Management</br>
+    |</br>
+    |- Add task</br>
+    |</br>
+    |- Mark task as done</br>
+    |</br>
+    |- Remove task</br>
 
  - It must have a beautifyl UI
 
+<img src="images/Show2.png" width="750" alt="TODO App Screenshot">
+
+<a href="https://basicfrontend.netlify.app/day%202%20todo%20app/">Demo</a> 
