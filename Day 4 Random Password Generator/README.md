@@ -12,4 +12,4 @@ This is a basic Random Password Generator built with HTML, CSS, and JavaScript.
  
 <img src=".images/" width="750" alt="TODO App Screenshot">
 
-<a href="https://basicfrontend.netlify.app/day%202%20todo%20app/">Demo</a> 
+<a href="https://basicfrontend.netlify.app/day%204%20random%20password%20generator/">Demo</a> 
