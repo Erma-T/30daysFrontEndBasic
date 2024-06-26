@@ -34,3 +34,13 @@ This is a To do app built with HTML, CSS, and JavaScript.
 <img src="images/Show2.png" width="750" alt="TODO App Screenshot">
 
 <a href="https://basicfrontend.netlify.app/day%202%20todo%20app/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%202%20TODO%20App">Repo</a>
+
+<h1> Day 4 - Random Password Generator App</h1>
+
+Difficulty - Easy :star:
+
+This is a random password generator app built with HTML, CSS, and JavaScript. 
+
+<img src="images/Show4.png" width="750" alt="TODO App Screenshot">
+
+<a href="https://basicfrontend.netlify.app/day%202%20todo%20app/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%204%20Random%20Password%20Generator">Repo</a>
