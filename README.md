@@ -43,4 +43,4 @@ This is a random password generator app built with HTML, CSS, and JavaScript.
 
 <img src="images/Show4.png" width="750" alt="TODO App Screenshot">
 
-<a href="https://basicfrontend.netlify.app/day%202%20todo%20app/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%204%20Random%20Password%20Generator">Repo</a>
+<a href="https://basicfrontend.netlify.app/day%204%20random%20password%20generator/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%204%20Random%20Password%20Generator">Repo</a>
