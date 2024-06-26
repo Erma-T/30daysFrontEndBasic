@@ -10,6 +10,6 @@ This is a basic Random Password Generator built with HTML, CSS, and JavaScript.
  - It must have a beautifyl UI
 
  
-<img src=".images/" width="750" alt="TODO App Screenshot">
+<img src="../images/Show4.png" width="750" alt="TODO App Screenshot">
 
 <a href="https://basicfrontend.netlify.app/day%204%20random%20password%20generator/">Demo</a> 
