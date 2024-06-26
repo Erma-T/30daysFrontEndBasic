@@ -8,3 +8,8 @@ This is a basic Random Password Generator built with HTML, CSS, and JavaScript.
  - Generates password when Generate password is clicked
  - allows users to copy the generated password
  - It must have a beautifyl UI
+
+ 
+<img src=".images/" width="750" alt="TODO App Screenshot">
+
+<a href="https://basicfrontend.netlify.app/day%202%20todo%20app/">Demo</a> 
