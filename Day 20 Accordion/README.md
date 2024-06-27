@@ -2,7 +2,7 @@
 
 Difficulty - Easy :star:
 
-This is a Simpe Music Player built with HTML, and CSS. 
+This is a Simpe Music Player built with HTML, CSS, and JavaScript. 
 
 <h3>Features</h3>
  - Basic Controller buttons
