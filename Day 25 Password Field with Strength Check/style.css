@@ -6,9 +6,16 @@
 
 body {
     display: flex;
-    align-items: center;
+    
+    align-self: center;
+    align-content: center;
     min-height: 100vh;
     width: 100%;
     background: linear-gradient(145deg, #e8b5ff, #9e72eb, #a9a9ff);
 }
-
+.card{
+    width: 15rem;
+    padding: 0.5rem;
+    background: linear-gradient(120deg, #fffcff, #ffffff, #fffcff);
+    border-radius: 10px;
+}
