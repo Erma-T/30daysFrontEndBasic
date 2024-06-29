@@ -11,6 +11,10 @@ This is a basic quiz app built with HTML, CSS, and JavaScript.
     |
     |- If incorrect, will mark it red and mark the correct one in green
  
-
  - It must have a beautifyl UI
+
+<img src="../images/Show4.png" width="750" alt="Quize App">
+
+<a href="https://basicfrontend.netlify.app/day%203%20quiz%20app/">Demo</a> 
+
 
