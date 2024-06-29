@@ -13,7 +13,7 @@ This is a basic quiz app built with HTML, CSS, and JavaScript.
  
  - It must have a beautifyl UI
 
-<img src="../images/Show3.png" width="750" alt="Quize App">
+<img src="../images/show3.png" width="750" alt="Quize App">
 
 <a href="https://basicfrontend.netlify.app/day%203%20quiz%20app/">Demo</a> 
 
