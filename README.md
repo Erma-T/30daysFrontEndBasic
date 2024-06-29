@@ -35,6 +35,17 @@ This is a To do app built with HTML, CSS, and JavaScript.
 
 <a href="https://basicfrontend.netlify.app/day%202%20todo%20app/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%202%20TODO%20App">Repo</a>
 
+
+<h1> Day 3 - Quiz App</h1>
+
+Difficulty - Easy :star:
+
+
+<img src="../images/show3.png" width="750" alt="Quize App">
+
+<a href="https://basicfrontend.netlify.app/day%203%20quiz%20app/">Demo</a> 
+
+
 <h1> Day 4 - Random Password Generator App</h1>
 
 Difficulty - Easy :star:
