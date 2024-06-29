@@ -40,6 +40,7 @@ This is a To do app built with HTML, CSS, and JavaScript.
 
 Difficulty - Easy :star:
 
+This is a basic quiz app built with HTML, CSS, and JavaScript. 
 
 <img src="../images/show3.png" width="750" alt="Quize App">
 
