@@ -5,10 +5,10 @@ Difficulty - Easy :star:
 This is a dragable bottom sheet modal built with HTML, CSS, and JavaScript. 
 
 <h3>Features</h3>
- - Triggered by a button click
- - displayed at the bottom of the page
- - Scrollable and dragable to resize it 
- - It must have a beautifyl UI
+ - Triggered by a button click </br>
+ - displayed at the bottom of the page</br>
+ - Scrollable and dragable to resize it</br>
+ - It must have a beautifyl UI</br>
 
 <img src="../images/Show26.png" width="750" alt="Quize App">
 
