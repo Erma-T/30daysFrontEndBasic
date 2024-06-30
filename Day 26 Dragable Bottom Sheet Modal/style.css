@@ -11,5 +11,5 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #E3F2FD;
+  background: linear-gradient(130deg, rgb(151, 68, 184), rgb(96, 71, 185), rgb(158, 77, 190));
 }
