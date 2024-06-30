@@ -1,4 +1,4 @@
-<h1> Day 26 - Dragable Bottomsheet Modal</h1>
+<h1> Day 26 - Dragable Bottom Sheet Modal</h1>
 
 Difficulty - Easy :star:
 
