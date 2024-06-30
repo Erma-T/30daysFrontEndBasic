@@ -10,8 +10,8 @@ This is a dragable bottom sheet modal built with HTML, CSS, and JavaScript.
  - Scrollable and dragable to resize it 
  - It must have a beautifyl UI
 
-<img src="#" width="750" alt="Quize App">
+<img src="../images/Show26.png" width="750" alt="Quize App">
 
-<a href="#">Demo</a> 
+<a href="https://basicfrontend.netlify.app/day%2026%20dragable%20bottom%20sheet%20modal/">Demo</a> 
 
 
