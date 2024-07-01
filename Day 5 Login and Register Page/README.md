@@ -5,6 +5,13 @@ Difficulty - Easy :star:
 This is a basic Login | Register page with switch built with HTML, CSS, and JavaScript. 
 
 <h3>Features</h3>
- - Displays a login page with a prompt to accept username and password from user
- - When login page is displayed Register button is shown
- - When Sign up is clicked switches to a register page and display to the user a prompt to accept registration details
+ - Displays a login page with a prompt to accept username and password from user </br>
+ - When login page is displayed Register button is shown </br>
+ - When Sign up is clicked switches to a register page and display to the user a prompt to accept registration details </br>
+
+ 
+<img src="../images/show3.png" width="750" alt="Quize App">
+
+<a href="https://basicfrontend.netlify.app/day%203%20quiz%20app/">Demo</a> 
+
+
