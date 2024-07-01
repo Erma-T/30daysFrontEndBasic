@@ -56,3 +56,16 @@ This is a random password generator app built with HTML, CSS, and JavaScript.
 <img src="images/Show4.png" width="750" alt="TODO App Screenshot">
 
 <a href="https://basicfrontend.netlify.app/day%204%20random%20password%20generator/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%204%20Random%20Password%20Generator">Repo</a>
+
+
+<h1> Day 5 - Login | Register Page</h1>
+
+Difficulty - Easy :star:
+
+This is a basic Login | Register page with switch built with HTML, CSS, and JavaScript. 
+ 
+<img src="../images/Show5.png" width="750" alt="Login | Registration page">
+
+<a href="https://basicfrontend.netlify.app/day%205%20login%20and%20register%20page/">Demo</a>  | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%205%20Login%20and%20Register%20Page">Repo</a>
+
+

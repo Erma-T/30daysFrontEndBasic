@@ -12,6 +12,6 @@ This is a basic Login | Register page with switch built with HTML, CSS, and Java
  
 <img src="../images/Show5.png" width="750" alt="Login | Registration page">
 
-<a href="https://basicfrontend.netlify.app/day%203%20quiz%20app/">Demo</a> 
+<a href="https://basicfrontend.netlify.app/day%205%20login%20and%20register%20page/">Demo</a> 
 
 
