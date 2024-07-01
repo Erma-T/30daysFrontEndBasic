@@ -6,8 +6,8 @@
 }
 
 body{
-    background-color: #aaffd2;
-    background: linear-gradient(to right,#dcf5e7,#2bd48b);
+    background-color: #403ead;
+    background: linear-gradient(145deg,#e3b9ff,#7a2bd4);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,7 +44,7 @@ body{
 }
 .container button
 {
-    background-color: #156f34;
+    background-color: #16156f;
     color: #fff;
     font-size: 12px;
     padding: 10px 45px;
@@ -58,9 +58,9 @@ body{
 }
 .container button.hidden
 {
-    background: #b0fcdd;
+    background: #ca9dde;
     border-color: #062c13;
-    color: #0d5426;
+    color: #413f92;
      width: 50%;
      margin-left: 80px;
 }
@@ -92,7 +92,7 @@ body{
 }
 .form-container h1
 {
-    color: #0d5426;
+    color: #0f0e5e;
 }
 .sign-in
 {
@@ -164,9 +164,9 @@ body{
 }
 .toggle
 {
-    background-color: #156f34;
+    background-color: #16156f;
     height: 100%;
-    background: linear-gradient(to right, #19cf7a,#156f34);
+    background: linear-gradient(199deg,#bcaaff,#5215cd);
     color: #fff;
     position: relative;
     left: -100%;
