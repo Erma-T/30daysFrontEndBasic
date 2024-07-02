@@ -7,3 +7,8 @@ This is a Image Gallery page with switch built with HTML, and CSS.
 <h3>Features</h3>
  - Diaplay images
  - Colorize image on hover
+
+ 
+<img src="../images/Show5.png" width="750" alt="Login | Registration page">
+
+<a href="https://basicfrontend.netlify.app/day%205%20login%20and%20register%20page/">Demo</a> 
