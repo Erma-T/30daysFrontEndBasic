@@ -11,4 +11,4 @@ This is a Image Gallery page with switch built with HTML, and CSS.
  
 <img src="../images/Show6.png" width="750" alt="Login | Registration page">
 
-<a href="https://basicfrontend.netlify.app/day%205%20login%20and%20register%20page/">Demo</a> 
+<a href="https://basicfrontend.netlify.app/day%206%20image%20gallery/">Demo</a> 
