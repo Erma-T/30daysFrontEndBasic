@@ -68,4 +68,12 @@ This is a basic Login | Register page with switch built with HTML, CSS, and Java
 
 <a href="https://basicfrontend.netlify.app/day%205%20login%20and%20register%20page/">Demo</a>  | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%205%20Login%20and%20Register%20Page">Repo</a>
 
+<h1> Day 6 - Image Gallery</h1>
 
+Difficulty - Easy :star:
+
+This is a basic Login | Register page with switch built with HTML, CSS, and JavaScript. 
+ 
+<img src="/images/Show5.png" width="750" alt="Login | Registration page">
+
+<a href="https://basicfrontend.netlify.app/day%205%20login%20and%20register%20page/">Demo</a>  | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%205%20Login%20and%20Register%20Page">Repo</a>
