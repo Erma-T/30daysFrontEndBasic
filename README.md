@@ -44,7 +44,7 @@ This is a basic quiz app built with HTML, CSS, and JavaScript.
 
 <img src="images/show3.png" width="750" alt="Quize App">
 
-<a href="https://basicfrontend.netlify.app/day%203%20quiz%20app/">Demo</a> 
+<a href="https://basicfrontend.netlify.app/day%203%20quiz%20app/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%203%20Quiz%20App">Repo</a>
 
 
 <h1> Day 4 - Random Password Generator App</h1>
@@ -76,4 +76,4 @@ This is a Image Gallery page with switch built with HTML, and CSS.
  
 <img src="/images/show6.png" width="750" alt="Image Gallery">
 
-<a href="https://basicfrontend.netlify.app/day%206%20image%20gallery/">Demo</a> 
+<a href="https://basicfrontend.netlify.app/day%206%20image%20gallery/">Demo</a> | <a href="https://github.com/Erma-T/30daysFrontEndBasic/tree/main/Day%206%20Image%20Gallery">Repo</a>
