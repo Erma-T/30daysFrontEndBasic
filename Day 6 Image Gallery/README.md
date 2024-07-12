@@ -9,6 +9,6 @@ This is a Image Gallery page with switch built with HTML, and CSS.
  - Colorize image on hover
 
  
-<img src="../images/Show6.png" width="750" alt="Login | Registration page">
+<img src="../images/show6.png" width="750" alt="Login | Registration page">
 
 <a href="https://basicfrontend.netlify.app/day%206%20image%20gallery/">Demo</a> 

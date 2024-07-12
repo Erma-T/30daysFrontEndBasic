@@ -12,6 +12,6 @@ This is a basic to do app built with HTML, CSS, and JavaScript.
 
  - It must have a beautifyl UI
 
-<img src="../images/Show2.png" width="750" alt="TODO App Screenshot">
+<img src="../images/show2.png" width="750" alt="TODO App Screenshot">
 
 <a href="https://basicfrontend.netlify.app/day%202%20todo%20app/">Demo</a> 
