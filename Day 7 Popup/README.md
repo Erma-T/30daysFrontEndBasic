@@ -10,4 +10,4 @@ This is a Popup display built with HTML, CSS, and JavaScript.
 
  <img src="../images/show7.png" width="750" alt=" POP UP Message ">
 
-<a href="https://basicfrontend.netlify.app/day%206%20image%20gallery/">Demo</a>
+<a href="https://basicfrontend.netlify.app/day%207%20popup/">Demo</a>
